@@ -87,6 +87,47 @@
 						<input type="checkbox" class="csc-collection-object-loanAllowed"/>
 					</div>
 				</div>
+
+				<div class="info-pair">
+					<div class="header">
+						<div class="label csc-collection-object-catalogingDateMade-label"></div>
+					</div>
+					<div class="content">
+						<input type="text" class="csc-collection-object-catalogingDateMade"/>
+					</div>
+				</div>
+				<div class="info-pair">
+					<div class="header">
+						<div class="label csc-collection-object-catalogingDateEarliestYear-label"></div>
+					</div>
+					<div class="content">
+						<input type="text" class="csc-collection-object-catalogingDateEarliestYear"/>
+					</div>
+				</div>
+				<div class="info-pair">
+					<div class="header">
+						<div class="label csc-collection-object-catalogingDateLatestYear-label"></div>
+					</div>
+					<div class="content">
+						<input type="text" class="csc-collection-object-catalogingDateLatestYear"/>
+					</div>
+				</div>
+				<div class="info-pair">
+					<div class="header">
+						<div class="label csc-collection-object-catalogingDateCentury-label"></div>
+					</div>
+					<div class="content">
+						<select class="csc-collection-object-catalogingDateCentury input-select"><option value="">Options not loaded</option></select>
+					</div>
+				</div>
+				<div class="info-pair">
+					<div class="header">
+						<div class="label csc-collection-object-catalogingDateNote-label"></div>
+					</div>
+					<div class="content">
+						<input type="text" class="csc-collection-object-catalogingDateNote"/>
+					</div>
+				</div>
 			</div>
 			
 			<div class="info-column2-50 fl-force-right">
@@ -380,15 +421,6 @@
 
 				<div class="info-pair-select">
 					<div class="header">
-						<div class="label csc-collection-object-wholePart-label"></div>
-					</div>
-					<div class="content">
-						<select class="csc-collection-object-wholePart input-select"><option value="">Options not loaded</option></select>
-					</div>
-				</div>
-
-				<div class="info-pair-select">
-					<div class="header">
 						<div class="label csc-collection-object-legalStatus-label"></div>
 					</div>
 					<div class="content">
@@ -403,6 +435,34 @@
 					<div class="content">
 						<input type="text" class="csc-collection-object-legalStatusDate"/>
 					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="info-column">
+			<div class="info-pair">
+				<div class="header">
+					<div class="label csc-collection-object-objectInscriptionGroup-label"></div>
+				</div>
+				<div class="content">
+					<table>
+						<thead>
+							<tr>
+								<td class="csc-collection-object-objectInscriptionType-label"></td>
+								<td class="csc-collection-object-objectInscriptionText-label"></td>
+								<td class="csc-collection-object-objectInscriptionLocation-label"></td>
+								<td class="csc-collection-object-objectInscriptionNote-label"></td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="csc-collection-object-objectInscriptionGroup">
+								<td><input type="text" class="csc-collection-object-objectInscriptionType"/></td>
+								<td><input type="text" class="csc-collection-object-objectInscriptionText"/></td>
+								<td><input type="text" class="csc-collection-object-objectInscriptionLocation"/></td>
+								<td><input type="text" class="csc-collection-object-objectInscriptionNote"/></td>
+							</tr>
+						</tbody>
+					</table>
 				</div>
 			</div>
 		</div>

@@ -42,6 +42,15 @@ collection-object-provenanceLabel: Provenance
 collection-object-homeLocationLabel: Home Location
 collection-object-cultureLabel: Culture
 collection-object-signedLabel: Signed
-collection-object-wholePartLabel: Whole Part
 collection-object-legalStatusLabel: Legal Status
-collection-object-legalStatusDateLabel: Legal Status
+collection-object-legalStatusDateLabel: Legal Status Date
+collection-object-catalogingDateMadeLabel: Date Made
+collection-object-catalogingDateEarliestYearLabel: Earliest Year
+collection-object-catalogingDateLatestYearLabel: Latest Year
+collection-object-catalogingDateCenturyLabel: Century
+collection-object-catalogingDateNoteLabel: Date Note
+collection-object-objectInscriptionGroupLabel: Inscription
+collection-object-objectInscriptionTypeLabel: Type
+collection-object-objectInscriptionTextLabel: Text
+collection-object-objectInscriptionLocationLabel: Location
+collection-object-objectInscriptionNoteLabel: Note
