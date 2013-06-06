@@ -58,3 +58,28 @@ collection-object-objectInscriptionTypeLabel: Type
 collection-object-objectInscriptionTextLabel: Text
 collection-object-objectInscriptionLocationLabel: Location
 collection-object-objectInscriptionNoteLabel: Note
+
+#conditioncheck
+conditioncheck-conditionLHSLabel: Condition
+conditioncheck-conditionDateLHSLabel: Condition Date
+conditioncheck-conditionSummaryLHSLabel: Condition Summary
+conditioncheck-conditionNoteLHSLabel: Condition Note
+conditioncheck-examinationFlagLabel: Examination
+conditioncheck-treatmentFlagLabel: Treatment
+conditioncheck-damageFlagLabel: Damage
+conditioncheck-preparationFlagLabel: Preparation
+conditioncheck-priorityTreatmentFlagLabel: Priority Treatment
+conditioncheck-priorityCuratorialFlagLabel: Priority Curatorial
+conditioncheck-activityLabel: Activity
+conditioncheck-activityStartDateLabel: Activity Start Date
+conditioncheck-activityEndDateLabel: Activity End Date
+conditioncheck-activityReasonLabel: Activity Reason
+conditioncheck-activitySummaryLabel: Activity Summary
+conditioncheck-authorizedByLabel: Authorized By
+conditioncheck-workByLabel: Work By
+conditioncheck-estimatedTimeLabel: Estimated Time
+conditioncheck-estimatedCostLabel: Estimated Cost
+conditioncheck-estimatedCostCurrencyLabel: Estimated Cost Currency
+conditioncheck-activityTimeLabel: Activity Time
+conditioncheck-activityCostLabel: Activity Cost
+conditioncheck-activityCostCurrencyLabel: Activity Cost Currency
