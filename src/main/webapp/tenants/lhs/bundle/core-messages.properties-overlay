@@ -38,12 +38,14 @@ login-submitNewPassword: Reset
 acquisition-acquisitionCostValueLabel: Cost
 acquisition-acquisitionPriceValueLabel: Price
 
+acquisition-acquisitionProvisosLabel: Acquisition Terms
+
 #cataloging
 collection-object-categoryLabel: Category
 collection-object-loanAllowedLabel: Loan Allowed
 collection-object-legalOwnerLabel: Legal Owner
 collection-object-provenanceLabel: Provenance
-collection-object-homeLocationLabel: Home Location
+collection-object-homeLocationLabel: Home Location (ONLY FOR TESTING)
 collection-object-cultureLabel: Culture
 collection-object-signedLabel: Signed
 collection-object-legalStatusLabel: Legal Status
@@ -58,6 +60,19 @@ collection-object-objectInscriptionTypeLabel: Type
 collection-object-objectInscriptionTextLabel: Text
 collection-object-objectInscriptionLocationLabel: Location
 collection-object-objectInscriptionNoteLabel: Note
+
+collection-object-briefDescriptionsLabel: Description
+collection-object-numberOfObjectsLabel: Item Count
+collection-object-commentsLabel: Note
+collection-object-objectNameLabel: Item Name
+collection-object-objectProductionPlaceGroupLabel: Place Made
+collection-object-materialGroupLabel: Materials
+collection-object-referenceInformationLabel: Reference Information
+collection-object-referenceGroupLabel: Reference References
+collection-object-referenceLabel: Research Reference
+collection-object-referenceNoteLabel: Additional Reference Reference
+collection-object-computedCurrentLocationLabel: Computed Home Location
+
 
 #conditioncheck
 conditioncheck-conditionLHSLabel: Condition
@@ -83,3 +98,7 @@ conditioncheck-estimatedCostCurrencyLabel: Estimated Cost Currency
 conditioncheck-activityTimeLabel: Activity Time
 conditioncheck-activityCostLabel: Activity Cost
 conditioncheck-activityCostCurrencyLabel: Activity Cost Currency
+
+
+#dimension
+dimension-measuredPartGroupLabel: Measurements
