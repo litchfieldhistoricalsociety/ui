@@ -64,6 +64,7 @@ collection-object-objectInscriptionNoteLabel: Note
 collection-object-briefDescriptionsLabel: Description
 collection-object-numberOfObjectsLabel: Item Count
 collection-object-commentsLabel: Note
+collection-object-objectNameGroupLabel: Item Name
 collection-object-objectNameLabel: Item Name
 collection-object-objectProductionPlaceGroupLabel: Place Made
 collection-object-materialGroupLabel: Materials
@@ -72,7 +73,9 @@ collection-object-referenceGroupLabel: Reference References
 collection-object-referenceLabel: Research Reference
 collection-object-referenceNoteLabel: Additional Reference Reference
 collection-object-computedCurrentLocationLabel: Computed Home Location
-
+collection-object-objectProductionPersonGroupLabel: Makers
+collection-object-objectProductionPersonLabel: Maker
+collection-object-ownersLabel: Collector
 
 #conditioncheck
 conditioncheck-conditionLHSLabel: Condition

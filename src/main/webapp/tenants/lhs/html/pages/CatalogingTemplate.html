@@ -78,6 +78,23 @@
 						<select class="csc-collection-object-category input-select"><option value="">Options not loaded</option></select>
 					</div>
 				</div>
+				<div class="info-pair">
+                    <div class="header">
+                        <div class="label csc-collection-object-computedCurrentLocation-label"></div>
+                    </div>
+                    <div class="content">
+                        <input type="text" disabled="disabled" class="csc-collection-object-computedCurrentLocation"/>
+                    </div>
+                </div>
+
+				<div class="info-pair">
+					<div class="header">
+						<div class="label csc-collection-object-homeLocation-label"></div>
+					</div>
+					<div class="content">
+						<input type="text" class="csc-collection-object-homeLocation"/>
+					</div>
+				</div>
 
 				<div class="info-pair">
 					<div class="header">
@@ -85,47 +102,6 @@
 					</div>
 					<div class="content">
 						<input type="checkbox" class="csc-collection-object-loanAllowed"/>
-					</div>
-				</div>
-
-				<div class="info-pair">
-					<div class="header">
-						<div class="label csc-collection-object-catalogingDateMade-label"></div>
-					</div>
-					<div class="content">
-						<input type="text" class="csc-collection-object-catalogingDateMade"/>
-					</div>
-				</div>
-				<div class="info-pair">
-					<div class="header">
-						<div class="label csc-collection-object-catalogingDateEarliestYear-label"></div>
-					</div>
-					<div class="content">
-						<input type="text" class="csc-collection-object-catalogingDateEarliestYear"/>
-					</div>
-				</div>
-				<div class="info-pair">
-					<div class="header">
-						<div class="label csc-collection-object-catalogingDateLatestYear-label"></div>
-					</div>
-					<div class="content">
-						<input type="text" class="csc-collection-object-catalogingDateLatestYear"/>
-					</div>
-				</div>
-				<div class="info-pair">
-					<div class="header">
-						<div class="label csc-collection-object-catalogingDateCentury-label"></div>
-					</div>
-					<div class="content">
-						<select class="csc-collection-object-catalogingDateCentury input-select"><option value="">Options not loaded</option></select>
-					</div>
-				</div>
-				<div class="info-pair">
-					<div class="header">
-						<div class="label csc-collection-object-catalogingDateNote-label"></div>
-					</div>
-					<div class="content">
-						<input type="text" class="csc-collection-object-catalogingDateNote"/>
 					</div>
 				</div>
 			</div>
@@ -158,40 +134,12 @@
 					</div>
 				</div>
 
-                <div class="info-pair">
-                    <div class="header">
-                        <div class="label csc-collection-object-computedCurrentLocation-label"></div>
-                    </div>
-                    <div class="content">
-                        <input type="text" disabled="disabled" class="csc-collection-object-computedCurrentLocation"/>
-                    </div>
-                </div>
-
-				<div class="info-pair">
-					<div class="header">
-						<div class="label csc-collection-object-legalOwner-label"></div>
-					</div>
-					<div class="content">
-						<select class="csc-collection-object-legalOwner input-select"><option value="">Options not loaded</option></select>
-						<!--input type="text" class="csc-collection-object-legalOwner"/-->
-					</div>
-				</div>
-
 				<div class="info-pair">
 					<div class="header">
 						<div class="label csc-collection-object-provenance-label"></div>
 					</div>
 					<div class="content">
-						<input type="text" class="csc-collection-object-provenance"/>
-					</div>
-				</div>
-
-				<div class="info-pair">
-					<div class="header">
-						<div class="label csc-collection-object-homeLocation-label"></div>
-					</div>
-					<div class="content">
-						<input type="text" class="csc-collection-object-homeLocation"/>
+						<textarea rows="4" cols="30" class="input-textarea csc-collection-object-provenance"></textarea>
 					</div>
 				</div>
 			</div>
@@ -417,6 +365,16 @@
 					</div>
 					<div class="content">
 						<input type="text" class="csc-object-description-color"/>
+					</div>
+				</div>
+
+				<div class="info-pair">
+					<div class="header">
+						<div class="label csc-collection-object-legalOwner-label"></div>
+					</div>
+					<div class="content">
+						<select class="csc-collection-object-legalOwner input-select"><option value="">Options not loaded</option></select>
+						<!--input type="text" class="csc-collection-object-legalOwner"/-->
 					</div>
 				</div>
 
@@ -952,7 +910,56 @@
 	<div class="csc-recordEditor-header fl-container-flex header toggle csc-collection-object-objectProductionInformation-label"></div>
 	<div class="csc-recordEditor-togglable fl-container-flex fl-fix content main">
 		<div class="info-column">
-			<div class="info-column2-50 fl-force-left">
+			<div class="info-column">
+				<div class="info-column3 fl-force-left">
+					<div class="info-pair">
+						<div class="header">
+							<div class="label csc-collection-object-catalogingDateMade-label"></div>
+						</div>
+						<div class="content">
+							<input type="text" class="csc-collection-object-catalogingDateMade"/>
+						</div>
+					</div>
+					<div class="info-pair">
+						<div class="header">
+							<div class="label csc-collection-object-catalogingDateEarliestYear-label"></div>
+						</div>
+						<div class="content">
+							<input type="text" class="csc-collection-object-catalogingDateEarliestYear"/>
+						</div>
+					</div>
+				</div>
+				<div class="info-column3 fl-force-left">
+					<div class="info-pair">
+						<div class="header">
+							<div class="label csc-collection-object-catalogingDateCentury-label"></div>
+						</div>
+						<div class="content">
+							<select class="csc-collection-object-catalogingDateCentury input-select"><option value="">Options not loaded</option></select>
+						</div>
+					</div>
+					<div class="info-pair">
+						<div class="header">
+							<div class="label csc-collection-object-catalogingDateLatestYear-label"></div>
+						</div>
+						<div class="content">
+							<input type="text" class="csc-collection-object-catalogingDateLatestYear"/>
+						</div>
+					</div>
+				</div>
+				<div class="info-column3 fl-force-right">
+					<div class="info-pair">
+						<div class="header">
+							<div class="label csc-collection-object-catalogingDateNote-label"></div>
+						</div>
+						<div class="content">
+							<textarea rows="4" cols="30" class="input-textarea csc-collection-object-catalogingDateNote"></textarea>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!--div class="info-column2-50 fl-force-left">
 				<div class="info-pair">
 					<div class="header">
 						<div class="label csc-collection-object-objectProductionDateGroup-label"></div>
@@ -961,9 +968,9 @@
 						<input type="text" class="csc-objectProductionDateGroup-objectProductionDate" />
 					</div>
 				</div>
-			</div>
+			</div-->
 			
-			<div class="info-column2-50 fl-force-right">
+			<!--div class="info-column2-50 fl-force-right">
 				<div class="info-pair">
 					<div class="header">
 						<div class="label csc-collection-object-objectProductionPeopleGroup-label"></div>
@@ -985,7 +992,7 @@
 						</table>
 					</div>
 				</div>
-			</div>
+			</div-->
 		</div>
 		
 		<div class="info-column">
