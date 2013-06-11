@@ -83,8 +83,6 @@ conditioncheck-examinationFlagLabel: Examination
 conditioncheck-treatmentFlagLabel: Treatment
 conditioncheck-damageFlagLabel: Damage
 conditioncheck-preparationFlagLabel: Preparation
-conditioncheck-priorityTreatmentFlagLabel: Priority Treatment
-conditioncheck-priorityCuratorialFlagLabel: Priority Curatorial
 conditioncheck-activityLabel: Activity
 conditioncheck-activityStartDateLabel: Activity Start Date
 conditioncheck-activityEndDateLabel: Activity End Date
