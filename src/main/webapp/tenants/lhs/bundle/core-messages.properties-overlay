@@ -110,3 +110,6 @@ conditioncheck-activityCostCurrencyLabel: Activity Cost Currency
 
 #dimension
 dimension-measuredPartGroupLabel: Measurements
+
+#movement
+movement-movementContactLabel: Movement Facilitator
