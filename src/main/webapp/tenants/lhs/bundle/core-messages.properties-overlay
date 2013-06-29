@@ -85,6 +85,10 @@ collection-object-computedCurrentLocationLabel: Computed Home Location
 collection-object-objectProductionPersonGroupLabel: Makers
 collection-object-objectProductionPersonLabel: Maker
 collection-object-ownersLabel: Collector
+collection-object-formerOwnerGroupLabel: Former Owner
+collection-object-formerOwnerLabel: Former Owner
+collection-object-formerOwnerDateLabel: Former Owner Date
+collection-object-formerOwnerPlaceLabel: Former Owner Place
 
 #conditioncheck
 conditioncheck-conditionLHSLabel: Condition
