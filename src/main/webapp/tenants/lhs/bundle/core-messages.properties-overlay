@@ -39,6 +39,15 @@ acquisition-acquisitionCostValueLabel: Cost
 acquisition-acquisitionPriceValueLabel: Price
 
 acquisition-acquisitionProvisosLabel: Acquisition Terms
+acquisition-acquisitionAppraisalValueLabel: Appraisal
+acquisition-acquisitionAppraisalDateLabel: Appraisal Date
+acquisition-acquisitionAppraiserLabel: Appraiser
+acquisition-objectDonorContributionInformationLabel: Object Donor's Contribution Information
+acquisition-donorLabel: Donor
+acquisition-donorsPersonalExperienceLabel: Donor's Personal Experience
+acquisition-donorsPersonalResponseLabel: Donor's Personal Resonse
+acquisition-donorsReferencesLabel: Donor's Reference
+acquisition-donorsContributionNoteLabel: Donor Note
 
 #cataloging
 collection-object-categoryLabel: Category
