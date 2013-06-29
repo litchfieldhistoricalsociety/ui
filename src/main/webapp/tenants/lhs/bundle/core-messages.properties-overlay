@@ -113,3 +113,6 @@ dimension-measuredPartGroupLabel: Measurements
 
 #movement
 movement-movementContactLabel: Movement Facilitator
+
+#concept
+concept-conceptNoteLabel: Concept Note
