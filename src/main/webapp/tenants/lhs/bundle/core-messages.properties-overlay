@@ -98,6 +98,8 @@ collection-object-formerOwnerPlaceLabel: Former Owner Place
 #conditioncheck
 conditioncheck-conditionLHSLabel: Condition
 conditioncheck-conditionDateLHSLabel: Condition Date
+conditioncheck-conditionDateLHSStartLabel: Earliest
+conditioncheck-conditionDateLHSEndLabel: Latest
 conditioncheck-conditionSummaryLHSLabel: Condition Summary
 conditioncheck-conditionNoteLHSLabel: Condition Note
 conditioncheck-examinationFlagLabel: Examination
@@ -106,7 +108,11 @@ conditioncheck-damageFlagLabel: Damage
 conditioncheck-preparationFlagLabel: Preparation
 conditioncheck-activityLabel: Activity
 conditioncheck-activityStartDateLabel: Activity Start Date
+conditioncheck-activityStartDateStartLabel: Earliest
+conditioncheck-activityStartDateEndLabel: Latest
 conditioncheck-activityEndDateLabel: Activity End Date
+conditioncheck-activityEndDateStartLabel: Earliest
+conditioncheck-activityEndDateEndLabel: Latest
 conditioncheck-activityReasonLabel: Activity Reason
 conditioncheck-activitySummaryLabel: Activity Summary
 conditioncheck-estimatedTimeLabel: Estimated Time
