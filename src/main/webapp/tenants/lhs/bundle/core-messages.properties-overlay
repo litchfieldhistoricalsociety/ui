@@ -61,7 +61,11 @@ collection-object-legalStatusLabel: Legal Status
 collection-object-legalStatusDateLabel: Legal Status Date
 collection-object-catalogingDateMadeLabel: Date Made
 collection-object-catalogingDateEarliestYearLabel: Earliest Year
+collection-object-catalogingDateEarliestYearStartLabel: Earliest
+collection-object-catalogingDateEarliestYearEndLabel: Latest
 collection-object-catalogingDateLatestYearLabel: Latest Year
+collection-object-catalogingDateLatestYearStartLabel: Earliest
+collection-object-catalogingDateLatestYearEndLabel: Latest
 collection-object-catalogingDateCenturyLabel: Century
 collection-object-catalogingDateNoteLabel: Date Note
 collection-object-objectInscriptionGroupLabel: Inscription
