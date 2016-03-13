@@ -7,14 +7,14 @@ login-generalError: We are sorry, an error has occurred. Please try again, or co
 login-current: Litchfield Historical Society Tenant Information
 login-current-info:
 login-current-details:
-login-login-info: To view the CollectionSpace Litchfield Historical Society tenant, use the login box on the right with the login:
-login-login: admin@litchfieldhistoricalsociety.org
-login-login-pwd:  and password: 
-login-login-pwdValue: Administrator
-login-rologin-info: or use the read-only account:
-login-rologin: reader@litchfieldhistoricalsociety.org
-login-rologin-pwd:  and password: 
-login-rologin-pwdValue: reader
+login-login-info: To view the CollectionSpace Litchfield Historical Society tenant, use your login and password.
+login-login: 
+login-login-pwd:  
+login-login-pwdValue:
+login-rologin-info:
+login-rologin:
+login-rologin-pwd:
+login-rologin-pwdValue:
 login-footerFirst:
 login-footerLink:
 login-footerLast:
